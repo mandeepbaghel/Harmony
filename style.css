@@ -189,7 +189,7 @@ header .hamburger {
     left: 0;
     height: 100%;
     width: 100%;
-    background-image:url(/images/hero-image.jpg);
+    background-image:url(./images/hero-image.jpg);
     background-position: left;
     background-repeat: no-repeat;
     z-index: -1;

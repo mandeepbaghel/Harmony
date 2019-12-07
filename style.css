@@ -57,9 +57,9 @@ button a {
     padding: 10px 20px;
 }
 section{
-    padding: 8vh 7vw 5vh;
+    padding: 10vh 7vw 5vh;
     min-height: calc(100vh - 15vh);
-    background: rgb(7, 7, 7);
+    background: #000;
 }
 .half-grid{
     display: grid;

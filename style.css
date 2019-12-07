@@ -189,7 +189,7 @@ header .hamburger {
     left: 0;
     height: 100%;
     width: 100%;
-    background-image:url(./images/hero-image.jpg);
+    background-image:url(./images/hero.jpg);
     background-position: left;
     background-repeat: no-repeat;
     z-index: -1;
@@ -563,7 +563,7 @@ textarea{
      }
 
      .blogs .card .cover-details {
-        height: 180px;
+        height: 150px;
     }
     .cover-details .title{
         font-size:1.4rem;
